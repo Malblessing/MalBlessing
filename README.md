@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I’m Malwandla 
+Emerging Data & BI Analyst
 
-<!--
-**Malblessing/MalBlessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SQL • Power BI • Data Analytics • AWS (in progress)
 
-Here are some ideas to get you started:
+I use data to build dashboards, solve business problems, and tell clear visual stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m Working On:
+Power BI Dashboards
+SQL query projects
+AWS Cloud Practitioner course
+Building my analytics portfolio
+
+Skills:
+SQL
+Power BI (DAX, Data modeling)
+Data Analytics
+Excel
+Python basics
+AWS (studying)
+
+Featured Projects:
+Sales Dashboard (Power BI)
+SQL Practice Projects
+Data Cleaning Portfolio
+
