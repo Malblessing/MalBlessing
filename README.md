@@ -1,4 +1,5 @@
 Hi, I’m Malwandla 
+
 Emerging Data & BI Analyst
 
 SQL • Power BI • Data Analytics • AWS (in progress)
